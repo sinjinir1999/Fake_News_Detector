@@ -1,2 +1,1 @@
-# Fake_News_Detector
-A system to identify unreliable news articles.
+# FAKE NEWS DETECTOR | A SYSTEM TO IDENTIFY UNRELIABLE NEWS ARTICLES
