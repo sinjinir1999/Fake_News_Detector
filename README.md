@@ -1,4 +1,4 @@
-# FAKE NEWS DETECTion SYSTEM
+# FAKE NEWS DETECTION SYSTEM
 Analysed a dataset to predict whether a news is "Fake" or "Real".
 - Used PorterStemmer for Stemming and applied CountVectorizer for Bag of Words representation. Trained using Multinomial Naive Bayes Classifier model with a Test Accuracy score of 90.14%.
 - Used WordNetLemmatizer for Lemmatization and applied TfidfVectorizer for Term Frequency Inverse Document Frequency (TFIDF) representation. Trained using Multinomial Naive Bayes Classifier model with a Test Accuracy score of 88.36%.
